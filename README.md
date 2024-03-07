@@ -1,1 +1,3 @@
 # Cours_Python_fr
+
+Je vais mettre tous les resources pour le cours après ... 
