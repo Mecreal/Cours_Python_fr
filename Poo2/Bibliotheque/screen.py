@@ -1,0 +1,11 @@
+def afficher_menu():
+    print("\nMenu de la Bibliothèque")
+    print("1. Ajouter un livre")
+    print("2. Inscrire un adhérent")
+    print("3. Emprunter un livre")
+    print("4. Retourner un livre")
+    print("5. Afficher tous les livres")
+    print("6. Afficher tous les adhérents")
+    print("7. Sauvegarder l'état de la bibliothèque")
+    print("8. Charger l'état de la bibliothèque")
+    print("9. Quitter")
